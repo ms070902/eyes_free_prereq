@@ -1,0 +1,31 @@
+#rule {
+  text-align: center;
+  color: red;
+  padding-top: 15px;
+}
+#req {
+  text-align: center;
+  color: blue;
+  padding-top: 15px;
+}
+body {
+  background-color: whitesmoke;
+}
+#register-form {
+  padding: 30px 15px 30px;
+}
+p {
+  padding: 30px 15px 30px;
+}
+.register-container {
+  margin-left: 500px;
+  width: 500px;
+  clear: both;
+}
+.register-container input {
+  width: 100%;
+  clear: both;
+}
+#btn {
+  margin-left: 200px;
+}
